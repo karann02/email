@@ -1,0 +1,15 @@
+.btn-edit,
+.btn-delete {
+    font-size: 16px;
+    padding: 5px 10px;
+    margin: 0px 10px;
+}
+
+.btn-edit {
+    background-color: #e2f413;
+}
+
+.btn-delete {
+    background-color: #f11717;
+    color: white;
+}
